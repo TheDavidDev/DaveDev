@@ -1,0 +1,27 @@
+{
+  "name": "DaveDev",
+  "version": "1.0.0",
+  "description": "DaveDev Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NordicVzlan/DaveDev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NordicVzlan/DaveDev/issues"
+  },
+  "homepage": "https://github.com/NordicVzlan/DaveDev#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {}
+}
