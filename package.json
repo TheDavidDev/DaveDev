@@ -1,7 +1,7 @@
 {
-  "name": "DaveDev",
+  "name": "davedev",
   "version": "1.0.0",
-  "description": "DaveDev Portfolio",
+  "description": "David's Portfolio",
   "main": "index.js",
   "scripts": {
     "start": "react-scripts start",
